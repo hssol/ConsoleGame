@@ -6,7 +6,7 @@ namespace consoleGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Andrew! Lets get to work");
+            Console.WriteLine("Hello Andrew!");
         }
     }
 }
