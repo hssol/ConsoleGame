@@ -7,6 +7,9 @@ namespace consoleGame
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Andrew!");
+
+            Human Andrew = new Human();
+            
         }
     }
 }
